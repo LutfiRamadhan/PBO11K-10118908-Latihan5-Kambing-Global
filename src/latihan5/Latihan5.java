@@ -31,6 +31,7 @@ public class Latihan5 {
     public static void main(String[] args) {
         // TODO code application logic here
         Latihan5 kambingSusu = new Latihan5();
+        kambingSusu.getJumlahKambing();
         kambingSusu.tambahKambing();
         kambingSusu.getJumlahKambing();
     }
